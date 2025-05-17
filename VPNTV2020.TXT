@@ -1,6 +1,6 @@
 //profile-title: VPNTV20 عضو کانال شوید 
 //profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235962616; total=14860586; expire=1767212999
+//subscription-userinfo: upload=0; download=76235962616366; total=148606262626586; expire=1767212999
 #profile-web-page-url: @VPNTV20
 
 vless://076e6490-466e-4fef-9fab-4bc257be7a11@151.101.128.155:80?path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048%2F%3FJoin_Bade_Channel%40JOKERRVPN&security=none&encryption=none&host=Lalami.com&type=ws#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%E3%80%8AVPNTV20%E3%80%8B
